@@ -1,2 +1,7 @@
+# Ignore compiled bytecode.
 *.class
 *.log
+
+# Ignore IntelliJ folders.
+.idea/
+target/
